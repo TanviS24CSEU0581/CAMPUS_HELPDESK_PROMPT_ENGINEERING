@@ -1,22 +1,7 @@
-Source 1 — Fees
-Source name: Bennett University – Fee Structure
-Link: https://www.bennett.edu.in/admission/fee-structure/
-Topic: B.Tech CSE tuition fees, hostel fees and other applicable charges
-Collection date: 30 October 2026
-Source type: Official University Website
-
 FEES-1.1 | Fee is subject to revision with the new academic year as per Bennett University policy.
 
 FEES-1.2 | The Hostel fee is subject to an annual increase of upto 7%.
 
-Source 2 — Fee Refund Policy
-
-Source name: Bennett University Fee Refund Policy – Academic Year 2026–27
-Topic: Admission cancellation, tuition fee refund, security deposit refund, hostel charges refund and sports charges refund.
-Policy year: 2026–27
-Collection date: 30 October 2026
-Source type: Official University Policy PDF
-Document: Fee-Refund-Policy-26-27.pdf
 
 
 FEES-2.1 | In case a programme is called off before the start of the academic session (1st semester) due to any reason(s), full fee deposited by the student shall be refunded.
@@ -29,7 +14,7 @@ FEES-2.4 | Refund shall be processed within 15 working days of receipt of the co
 
 
 
-HOSTEL-1.1 | 100%** | On or Before the date of commencement of session (as notified by BU) or date of hostel occupancy (whichever is earlier)
+HOSTEL-1.1 | 100% | On or Before the date of commencement of session (as notified by BU) or date of hostel occupancy (whichever is earlier)
 
 HOSTEL-1.2 | 50% | Till 7th day of commencement of session (as notified by BU) or 7th day of hostel occupancy (whichever is earlier)
 
@@ -50,6 +35,7 @@ FEES-3.1 | Till the date of Registration, a candidate is entitled for full refun
 FEES-3.2 | From the date of Registration for the programme and having paid the Sports charges, the amount shall be refunded on pro-rata basis. For calculation of pro-rata deduction/refund, Semester shall be counted of 5 months duration (part of the month starting from day one will be considered full month for deduction).
 
 FEES-3.3 | Once registered, the refund shall be processed on completing the no due clearance issued by the Sports Officer.
+
 
 
 EXAM-1.1 | All undergraduate/integrated program students are expected to be present in every lecture, tutorial, practical or project interaction session scheduled for them.
@@ -152,21 +138,6 @@ EXAM-4.8 | Re-evaluation is permissible only for external components (End Semest
 
 
 
-Source 3 — Hostel Policy Notifications
-
-Source name: Bennett University – Hostel Policy Decisions and Amendments from AY 2026–27 onwards
-
-Notification date: 29 June 2026
-
-Additional document: Advance Payment of Annual Hostel Fee – 4th & 5th Year Students
-
-Notification date: 3 July 2026
-
-Source type: Official University Notifications
-
-Collection date: 30 October 2026
-
-
 HOSTEL-2.1 | The hostel fee for the entire academic year must be paid in advance at the time of hostel booking by all 4th and 5th year students, across all academic programmes (excluding PhD scholars), intending to avail hostel accommodation.
 
 HOSTEL-2.2 | Hostel seats will be confirmed only on receipt of the full annual fee.
@@ -177,16 +148,6 @@ HOSTEL-2.4 | University's existing Hostel Refund Policy will continue to apply w
 
 HOSTEL-2.5 | Students choosing hostel accommodation must pay the complete annual fee upfront.
 
-
-
-Source 4 - Standing Orders for Hostel
-
-Source name: Bennett University - Standing Orders for Hostel
-Document date: 06 December 2016
-Source type: Official University Hostel Rules Document
-Pages: 4
-Collection date: 30 October 2026
-Note: This document is dated 2016. Current applicability of these rules should be verified with the University.
 
 
 HOSTEL-3.1 | Students must show their ID card to the security staff every time they enter/leave Hostel gate.
@@ -241,30 +202,27 @@ HOSTEL-3.25 | No furniture shall be removed from the room and used elsewhere eit
 
 HOSTEL-3.26 | No student is allowed to engage private servant or keep pets.
 
-HOSTEL-3.27 | Visitors including parents are not allowed to go inside the hostel rooms. Parents/Guardians can meet their wards in the Visitor’s Lounge during the specified visiting hours with the permission of Warden.
+HOSTEL-3.27 | Students can be permitted to visit their Parents, Local guardians, near relatives occasionally. All such visits shall have to be after due permission from the authorities.
 
-HOSTEL-3.28 | Students can be permitted to visit their Parents, Local guardians, near relatives occasionally. All such visits shall have to be after due permission from the authorities.
+HOSTEL-3.28 | Students are prohibited from giving shelters to any other student/ outsider in their rooms. In case of any unauthorized shelter, the student will be liable to disciplinary action. Unauthorized occupation/ shelter to any outsider will be reported to local administration for suitable action.
 
-HOSTEL-3.29 | Students are prohibited from giving shelters to any other student/ outsider in their rooms. In case of any unauthorized shelter, the student will be liable to disciplinary action. Unauthorized occupation/ shelter to any outsider will be reported to local administration for suitable action.
+HOSTEL-3.29 | Students will be charged for Boarding and Lodging beyond the semester at the rates as decided by the management.
 
-HOSTEL-3.30 | All students must be present in their respective hostels as per specified times unless specifically permitted to stay out in the night and for a specific reason in writing by the Warden/Dean of Students Welfare.
+HOSTEL-3.30 | All students staying in the hostels during summer vacations shall have to abide by the Hostel Rules in vogue.
 
-HOSTEL-3.31 | Students will be charged for Boarding and Lodging beyond the semester at the rates as decided by the management.
+HOSTEL-3.31 | All the students are charged Hostel fee for the semester, as such they must completely vacate their rooms within three days of conclusion of the semester. Any stay beyond that without written permission of a competent authority shall attract disciplinary action and payment at enhanced rates or on rates as specified by the authority for both boarding as well as lodging.
 
-HOSTEL-3.32 | All students staying in the hostels during summer vacations shall have to abide by the Hostel Rules in vogue.
+HOSTEL-3.32 | The University adopts the vegetarian eating ethics for any food served or procured from outside agency or consumed within the University premises including guest houses. Food with eggs as ingredient may however be consumed. Fish, chicken, Meat of any kind however, shall not be allowed inside the campus. Further, the same shall apply to utilization of silk on the University Campus.
 
-HOSTEL-3.33 | All the students are charged Hostel fee for the semester, as such they must completely vacate their rooms within three days of conclusion of the semester. Any stay beyond that without written permission of a competent authority shall attract disciplinary action and payment at enhanced rates or on rates as specified by the authority for both boarding as well as lodging.
+HOSTEL-3.33 | In case of grave emergency immediate out pass will be issued by the Registrar/Warden.
 
-HOSTEL-3.34 | The University adopts the vegetarian eating ethics for any food served or procured from outside agency or consumed within the University premises including guest houses. Food with eggs as ingredient may however be consumed. Fish, chicken, Meat of any kind however, shall not be allowed inside the campus. Further, the same shall apply to utilization of silk on the University Campus.
+HOSTEL-3.34 | Girl students wanting overnight out pass/out station leave are required to get written permission of their parents/guardians in writing through an e mail to the warden from an E mail account which is registered with the University.
 
-HOSTEL-3.35 | In case of grave emergency immediate out pass will be issued by the Registrar/Warden.
+HOSTEL-3.35 | Girl students are advised to go outside the campus in groups of minimum three for their own safety.
 
-HOSTEL-3.36 | Girl students wanting overnight out pass/out station leave are required to get written permission of their parents/guardians in writing through an e mail to the warden from an E mail account which is registered with the University.
+HOSTEL-3.36 | In case of medical evacuation, the patient and attendants can move out on the medical officer's advice.
 
-HOSTEL-3.37 | Girl students are advised to go outside the campus in groups of minimum three for their own safety.
+HOSTEL-3.37 | The timings for the out pass as above shall be reviewed by the Administration and communicated from time to time and shall be binding on the students.
 
-HOSTEL-3.38 | In case of medical evacuation, the patient and attendants can move out on the medical officer's advice.
-
-HOSTEL-3.39 | The timings for the out pass as above shall be reviewed by the Administration and communicated from time to time and shall be binding on the students.
-
-HOSTEL-3.40 | Students violating any of the above guidelines will face disciplinary action in which case the decision of competent authority is final and binding.
+HOSTEL-3.38 | Students violating any of the above guidelines will face disciplinary action in which case the decision of competent authority is final and binding.
+tune 
