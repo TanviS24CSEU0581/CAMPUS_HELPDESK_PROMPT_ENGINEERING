@@ -46,7 +46,7 @@ Answers are produced by ChatGPT manually. The page does not call a model. If the
 | v2 | Strict numbered rules, injection rule | Yashika | 34 |
 | v3 | Few-shot examples and a verify-the-quote step | Suhani | 35 |
 | v4a | Topic classifier and a refusal that names the office | Samriddhi | 36 |
-| v4b | Rewriting of messy questions, plain-language answers | Kratika | 36 |
+| v4b | Rewriting of messy questions, plain-language answers | Kratika | 35 |
 | v5 | Built on v4a, plus rules for advice, completeness and no unrelated sections | Tanvi | 37 |
 
 ## How to reproduce the tests
