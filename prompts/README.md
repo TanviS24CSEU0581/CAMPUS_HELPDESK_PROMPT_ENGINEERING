@@ -8,7 +8,7 @@ Prompt versions for the Campus Helpdesk Assistant. Each file has two placeholder
 | `v2.txt` | Numbered strict rules, injection rule, multi-section rule | Yashika | 34 |
 | `v3.txt` | Few-shot examples and a verify-the-quote step | Suhani | 35 |
 | `v4a.txt` | Topic classifier and a refusal that names the right office | Samriddhi | 36 |
-| `v4b.txt` | Rewriting of messy questions and plain-language answers | Kratika | 36 |
+| `v4b.txt` | Rewriting of messy questions and plain-language answers | Kratika | 35 |
 | `v5.txt` | Final prompt: built on v4a, plus rules for advice, completeness and no unrelated sections | Tanvi | 37 |
 
 
