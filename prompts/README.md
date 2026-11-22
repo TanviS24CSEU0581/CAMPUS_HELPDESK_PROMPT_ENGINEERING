@@ -11,4 +11,6 @@ Prompt versions for the Campus Helpdesk Assistant. Each file has two placeholder
 | `v4b.txt` | Rewriting of messy questions and plain-language answers | Kratika | 35 |
 | `v5.txt` | Final prompt: built on v4a, plus rules for advice, completeness and no unrelated sections | Tanvi | 37 |
 
+Google spreadsheet link: https://docs.google.com/spreadsheets/d/19rb1k9obFQd_kRgx7Q7cDBkdsJqFZg8vQN9JBFwTyb8/edit?usp=sharing
+
 
